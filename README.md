@@ -3,4 +3,5 @@ Progetto universitario creato per l'esame di "Tecnologie e software per il web" 
 Wizard Component è un e-commerce creato per la vendita di componenti hardware del PC.
 All'interno è presente un database per la gestione degli ordini, account e prodotti.
 Wizard Component deve essere eseguito su server in locale "Apache Tomcat".
-Linguaggi utilizzati: Java, Javascript, JSON, HTML, CSS, SQL.
+Linguaggi utilizzati: Java, Javascript, SQL.
+Tecnologie utilizzate: JSON, HTML, CSS.
