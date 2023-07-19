@@ -5,3 +5,4 @@ All'interno è presente un database per la gestione degli ordini, account e prod
 Wizard Component deve essere eseguito su server in locale "Apache Tomcat".
 Linguaggi utilizzati: Java, Javascript, SQL.
 Tecnologie utilizzate: JSON, HTML, CSS.
+
